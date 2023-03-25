@@ -26,7 +26,7 @@ it really expanded my knowledge of flexbox.
 1- First of all I don't know why I couldn't put the main div at
 the center with margin: 0 auto; . I used this property all the time
 to put the main div at the center of the body but it didn't work. So
-I had to put it at the center using margin myself.
+I had to put it at the center using flexbox.
 
 2- Another problem is the corner borders of the 4 boxes in right.
 I searched a lot for it, multiple linear-gradients, svgs and many
