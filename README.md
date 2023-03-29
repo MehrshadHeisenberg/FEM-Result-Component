@@ -5,7 +5,7 @@ tell some of my issues when bulding it
 and also the things that I learned from
 building this.
 
-# Skills used in this project:
+## Skills used in this project:
 
 1- HTML
 
