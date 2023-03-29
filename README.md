@@ -5,7 +5,15 @@ tell some of my issues when bulding it
 and also the things that I learned from
 building this.
 
-# Things that I learned
+# Skills used in this project:
+
+1- HTML
+
+2- CSS
+
+3- A little bit of responsive design
+
+# Things that I learned:
 
 1- Well first of all I used linear-gradient myself without
 the help of anybody and I think I did actually a good job.
@@ -21,7 +29,7 @@ to put at the center. It was fun!
 3- Well I used flexbox pretty much in this design and I think
 it really expanded my knowledge of flexbox.
 
-# Thing that I had problem with (I appreciate your help for that)
+# Thing that I had problem with:
 
 1- First of all I don't know why I couldn't put the main div at
 the center with margin: 0 auto; . I used this property all the time
@@ -37,7 +45,7 @@ seems that background-image doesn't take transtion so I couldn't find
 a way for transtitioning my button from the state color to the gradient
 color while hovored.
 
-# Conclusion
+# Conclusion:
 
 Anyhow, I think my design was pretty close to what it is in frontend mentor.
 I hope you liked it too and I really appreciate your help for the problems
