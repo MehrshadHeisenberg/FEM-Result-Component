@@ -31,7 +31,7 @@ to put at the center. It was fun!
 3- Well I used flexbox pretty much in this design and I think
 it really expanded my knowledge of flexbox.
 
-## Thing that I had problem with:
+## The problems that I encountered:
 
 1- First of all I don't know why I couldn't put the main div at
 the center with margin: 0 auto; . I used this property all the time
